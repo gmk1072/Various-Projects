@@ -1,0 +1,29 @@
+Gavin Keirstead
+Section 2
+Vectors HW- Asteroids
+
+User Funtionality:
+	-The user can navigate the main menu and instructions menu
+	-The user, when playing the game, can control the ship to destroy the meteors and move around the window.
+
+Design choices:
+	I went with a retro style look with the font and graphics.
+	I wanted it to kind of feel like space, so I didn't have the ship or the bullets stop moving once they started. 
+		You have to manually stop the ship
+	I thought of a good, epic feeling instrumental song that could go well with it and chose whoever brings the night by nightwish
+	I added as many sound effects that I could add without it, hopefully, feeling too cluttered
+	I wanted the game to rather than just limit how many bullets you could shoot at one time always be able to shoot, but only has 
+		so many bullets out at one time
+	
+Above and Beyond:
+	I added a menu screen where you can listen to the music, see the instructions and disable the music.
+	I added a lot of sound effects to the game for destruction, shooting, click the buttons, music and thrusting forward
+
+Requirements not completed:
+	None that I know of
+
+Bugs:
+	I could not get one bug that I noticed to be fixed. Sometimes the ship will not register that a key has been released, so it 
+		will continue to go in that direction I have trouble recreating it, so I couldn't really test why it was happening.
+		I know that it happens sometimes though and that a way to fix it is to press and release the button that it still 
+		thinks is pressed.
